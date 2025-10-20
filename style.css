@@ -1,0 +1,19 @@
+h1{
+    color:chocolate !important;
+
+}
+
+a:link{
+
+}
+
+a:active{
+
+}
+
+a:hover{
+    background-color: azure;
+}
+a:visited{
+    color: chartreuse;
+}
